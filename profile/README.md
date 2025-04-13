@@ -13,3 +13,6 @@ http://www.caboomlog.site
 
 ## ☁️ ERD
 https://www.erdcloud.com/d/yLBN3hg96GymNTSWC
+
+## 🤓
+[학습 내용, 이슈 사항 정리](https://github.com/orgs/caboom-log/projects/1)

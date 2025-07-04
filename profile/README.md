@@ -1,6 +1,3 @@
-### 🧜‍♂️ 개발즁
-
-http://www.caboomlog.site
 
 ## 🤺 개요
 - 개인 프로젝트

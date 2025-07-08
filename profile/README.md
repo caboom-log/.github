@@ -11,7 +11,7 @@
 ## ☁️ ERD
 https://www.erdcloud.com/d/yLBN3hg96GymNTSWC
 
-## 📌 기능 명세서
+## 📌 API 명세서
 https://docs.google.com/spreadsheets/d/15GcY9I2NP10LCFswZJX7jBnsVgujdmUU3lLrokQa5qM/edit?usp=sharing
 
 ## 🤓

@@ -5,7 +5,8 @@
 - 기간: 2025.03.13 ~
 
 ## 🏗️ 아키텍처
-![image](https://github.com/user-attachments/assets/9d4bb568-6750-4d95-8eaf-4c6abe08f965)
+![image](https://github.com/user-attachments/assets/29d53233-19c2-4468-a1e7-4a565bcb0a9f)
+
 
 
 ## ☁️ ERD

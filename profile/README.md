@@ -11,5 +11,8 @@
 ## ☁️ ERD
 https://www.erdcloud.com/d/yLBN3hg96GymNTSWC
 
+## 📌 기능 명세서
+https://docs.google.com/spreadsheets/d/15GcY9I2NP10LCFswZJX7jBnsVgujdmUU3lLrokQa5qM/edit?usp=sharing
+
 ## 🤓
 [학습 내용, 이슈 사항 정리](https://github.com/orgs/caboom-log/projects/1)

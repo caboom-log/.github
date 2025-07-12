@@ -4,7 +4,8 @@
 - 기간: 2025.03.13 ~
 
 ## 🏗️ 아키텍처
-![image](https://github.com/user-attachments/assets/29d53233-19c2-4468-a1e7-4a565bcb0a9f)
+<img width="919" height="653" alt="image" src="https://github.com/user-attachments/assets/58a6a562-2643-436d-bbd9-ccf7f09ba73a" />
+
 
 
 
